@@ -17,5 +17,20 @@ Developed an interactive Power BI dashboard to analyze financial performance, pr
 -Analyzed sales, revenue, profit, and customer segment performance to generate actionable business insights.
 ## Tools Used:
 Power BI, Power Query, DAX, Microsoft Excel, Data Modeling, Data Visualization.
+## Dashboard:
+<img width="1436" height="812" alt="Screenshot 2026-05-27 130230" src="https://github.com/user-attachments/assets/93a2ab65-68cd-4251-82c5-8995c9fb1df9" />
+## key Insights:
+-Paseo was the best-selling product and generated the highest sales.
+-Sales were highest in 2014, making it the best-performing year.
+-The Government and Small Business customer segments contributed the most to sales.
+-Some countries performed better than others, showing strong sales opportunities in those markets.
+-Monthly revenue changed over time, helping identify sales trends and peak periods.
+-The business achieved 11.75M Revenue, 164.62M Profit, and 1.95M Units Sold.
+-Product analysis showed that some products were more profitable and sold better than others.
+## Conclusion:
+This project demonstrates the use of Power BI to analyze sales and financial data through an interactive dashboard. By applying data cleaning, transformation, data modeling, and DAX calculations, meaningful insights were generated from the dataset. The dashboard helps track key business KPIs, identify top-performing products, understand customer segments, and monitor sales trends, enabling better data-driven decision-making.
+
+
+
 
 
