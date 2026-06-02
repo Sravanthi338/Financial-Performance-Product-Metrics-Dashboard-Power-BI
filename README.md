@@ -2,7 +2,7 @@
 ## Project Objective
 Developed an interactive Power BI dashboard to analyze financial performance, product sales trends, and customer segment contributions. Utilized Power Query, DAX, and data modeling to track key KPIs, visualize sales performance, identify top-performing products, and deliver actionable business insights through dynamic reports and filters.
 ## Dataset Used:
-
+Financial data cleaned.xlsx
 ## Problem Statement
 - Businesses often struggle to track sales performance, profitability, and customer segment contributions across multiple products and regions. 
 - The objective is to create a centralized dashboard that provides clear visibility into key metrics, sales trends, and business performance to support strategic decision-making.
@@ -19,7 +19,7 @@ Developed an interactive Power BI dashboard to analyze financial performance, pr
 Power BI, Power Query, DAX, Microsoft Excel, Data Modeling, Data Visualization.
 ## Dashboard
 <img width="1436" height="812" alt="Screenshot 2026-05-27 130230" src="https://github.com/user-attachments/assets/93a2ab65-68cd-4251-82c5-8995c9fb1df9" />
-## key Insights
+## Key Insights
 - Paseo was the best-selling product and generated the highest sales.
 - Sales were highest in 2014, making it the best-performing year.
 - The Government and Small Business customer segments contributed the most to sales.
